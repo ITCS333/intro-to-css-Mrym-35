@@ -104,16 +104,13 @@ blockquote {
 }
 
 
-/* ---------------------------------------------------------------
-   EXERCISE 12 — Cite Element
-   Target the <cite> element and:
-     - Set the display to block
-     - Set the text alignment to right
-     - Set the font-size to 0.9rem
-     - Set the color to #777777
-     - Add 10px margin on the top only
---------------------------------------------------------------- */
-
+cite {
+  display: block;
+  text-align: right;
+  font-size: 0.9rem;
+  color: #777777;
+  margin-top: 10px;
+}
 
 
 /* ---------------------------------------------------------------
