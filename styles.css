@@ -74,19 +74,17 @@ h2 {
 }
 
 
+.hobbies-list {
+  list-style: none;
+  padding: 0;
+}
 
-/* ---------------------------------------------------------------
-   EXERCISE 9 — Hobbies List
-   Target the element with the class "hobbies-list" and:
-     - Remove the default list-style (set to none)
-     - Remove default padding (set to 0)
-   Then target each <li> inside ".hobbies-list" and:
-     - Add a background-color of #ffffff
-     - Add 10px padding on all sides
-     - Add a 4px margin on the bottom
-     - Add a left border: 4px solid #2c3e50
---------------------------------------------------------------- */
-
+.hobbies-list li {
+  background-color: #ffffff;
+  padding: 10px;
+  margin-bottom: 4px;
+  border-left: 4px solid #2c3e50;
+}
 
 
 /* ---------------------------------------------------------------
