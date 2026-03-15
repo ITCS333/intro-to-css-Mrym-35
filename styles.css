@@ -94,17 +94,14 @@ h2 {
 }
 
 
-
-/* ---------------------------------------------------------------
-   EXERCISE 11 — Blockquote
-   Target the <blockquote> element and:
-     - Set the background-color to #ffffff
-     - Add 20px padding on all sides
-     - Add a left border: 5px solid #f39c12
-     - Remove default margin on left and right (set left/right margin to 0)
-     - Set the font-size to 1.1rem
---------------------------------------------------------------- */
-
+blockquote {
+  background-color: #ffffff;
+  padding: 20px;
+  border-left: 5px solid #f39c12;
+  margin-left: 0;
+  margin-right: 0;
+  font-size: 1.1rem;
+}
 
 
 /* ---------------------------------------------------------------
