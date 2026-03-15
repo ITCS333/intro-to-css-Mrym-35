@@ -42,12 +42,11 @@ nav a {
 
 
 
-/* ---------------------------------------------------------------
-   EXERCISE 5 — Navigation Link Hover State
-   Target the hover state of <a> tags inside <nav> and:
-     - Change the text-decoration to underline
-     - Change the color to #ffffff
---------------------------------------------------------------- */
+nav a:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
 
 
 
