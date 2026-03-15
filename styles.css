@@ -124,12 +124,10 @@ cite {
 }
 
 
-/* ---------------------------------------------------------------
-   EXERCISE 14 — Button Link Hover State
-   Target the hover state of ".btn" and:
-     - Change the background-color to #f39c12
-     - Add a smooth transition: all 0.3s ease
---------------------------------------------------------------- */
+.btn:hover {
+  background-color: #f39c12;
+  transition: all 0.3s ease;
+}
 
 
 
