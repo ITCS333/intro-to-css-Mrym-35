@@ -67,13 +67,11 @@ h2 {
 
 
 
-/* ---------------------------------------------------------------
-   EXERCISE 8 — Intro Paragraph
-   Target the element with the class "intro" and:
-     - Set the font-size to 1.1rem
-     - Set the line-height to 1.8
-     - Set the font-style to italic
---------------------------------------------------------------- */
+.intro {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  font-style: italic;
+}
 
 
 
