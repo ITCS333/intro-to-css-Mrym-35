@@ -59,13 +59,11 @@ main {
 
 
 
-/* ---------------------------------------------------------------
-   EXERCISE 7 — Section Headings
-   Target all <h2> elements and:
-     - Set the color to #2c3e50
-     - Add a bottom border: 2px solid #f39c12
-     - Add 8px of padding on the bottom only
---------------------------------------------------------------- */
+h2 {
+  color: #2c3e50;
+  border-bottom: 2px solid #f39c12;
+  padding-bottom: 8px;
+}
 
 
 
